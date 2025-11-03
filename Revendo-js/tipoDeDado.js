@@ -13,4 +13,7 @@ const luiz = {
   },
 };
 
+//alterando um dado com const
+luiz.address.street = "Rua ficticia do Luiz";
+
 console.log(luiz);
