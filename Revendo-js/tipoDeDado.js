@@ -17,3 +17,6 @@ const luiz = {
 luiz.address.street = "Rua ficticia do Luiz";
 
 console.log(luiz);
+
+//
+
